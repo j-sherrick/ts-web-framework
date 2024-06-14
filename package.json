@@ -1,0 +1,23 @@
+{
+  "name": "ts-web-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-framework",
+    "node",
+    "typescript",
+    "mongodb",
+    "parcel",
+    "tutorial",
+    "web-development"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.4.1"
+  }
+}
